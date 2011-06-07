@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>keyword</key>
+		<string>ku</string>
+		<key>text</key>
+		<string>Search KU People for</string>
+		<key>url</key>
+		<string>https://myidentity.ku.edu/directory/search?searchfor_name={query}</string>
+		<key>utf8</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>keyword</key>
+		<string>git</string>
+		<key>text</key>
+		<string>Search GitHub for</string>
+		<key>url</key>
+		<string>https://github.com/search?q={query}</string>
+		<key>utf8</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>keyword</key>
+		<string>netflix</string>
+		<key>text</key>
+		<string>Search Netflix for</string>
+		<key>url</key>
+		<string>http://www.netflix.com/Search?v1={query}</string>
+		<key>utf8</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>keyword</key>
+		<string>flickrcc</string>
+		<key>text</key>
+		<string>Search Flickr CC for</string>
+		<key>url</key>
+		<string>http://compfight.com/search/{query}/1-3-0-1</string>
+		<key>utf8</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>keyword</key>
+		<string>lawrence</string>
+		<key>text</key>
+		<string>Search Lawrence for</string>
+		<key>url</key>
+		<string>http://www2.ljworld.com/marketplace/lawrence/search/?q={query}&amp;location=66044&amp;market=%2Fmarketplace%2Flawrence%2F&amp;lat=39.0176677&amp;long=-95.2057909&amp;rad=20</string>
+		<key>utf8</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>keyword</key>
+		<string>pin</string>
+		<key>text</key>
+		<string>Search Pinboard for</string>
+		<key>url</key>
+		<string>http://pinboard.in/search/?query={query}&amp;mine=Search+Mine</string>
+		<key>utf8</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>keyword</key>
+		<string>whois</string>
+		<key>text</key>
+		<string>Search Whois for</string>
+		<key>url</key>
+		<string>http://www.whois.net/whois/{query}</string>
+		<key>utf8</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>keyword</key>
+		<string>railscasts</string>
+		<key>text</key>
+		<string>Railscasts</string>
+		<key>url</key>
+		<string>http://railscasts.com/episodes?search={query}</string>
+		<key>utf8</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>keyword</key>
+		<string>ssh</string>
+		<key>text</key>
+		<string>SSH into</string>
+		<key>url</key>
+		<string>ssh://{query}</string>
+		<key>utf8</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>keyword</key>
+		<string>crl</string>
+		<key>text</key>
+		<string>Search CRL for</string>
+		<key>url</key>
+		<string>http://www.google.com/search?q={query}+site:kucrl.org</string>
+		<key>utf8</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>keyword</key>
+		<string>str</string>
+		<key>text</key>
+		<string>Search Stratepedia for</string>
+		<key>url</key>
+		<string>http://www.google.com/search?q={query}+site:stratepedia.org</string>
+		<key>utf8</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>keyword</key>
+		<string>flickr</string>
+		<key>text</key>
+		<string>Search Flickr photostream for</string>
+		<key>url</key>
+		<string>http://www.flickr.com/search/?w=21946080%40N00&amp;q={query}&amp;m=text</string>
+		<key>utf8</key>
+		<false/>
+	</dict>
+</array>
+</plist>
