@@ -122,5 +122,25 @@
 		<key>utf8</key>
 		<false/>
 	</dict>
+	<dict>
+		<key>keyword</key>
+		<string>f</string>
+		<key>text</key>
+		<string>Fantastical</string>
+		<key>url</key>
+		<string>x-fantastical://parse?s={query}</string>
+		<key>utf8</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>keyword</key>
+		<string>cc</string>
+		<key>text</key>
+		<string>Search Google reusable images for</string>
+		<key>url</key>
+		<string>http://www.google.com/search?as_q={query}&amp;hl=en&amp;biw=1219&amp;bih=936&amp;tbm=isch&amp;btnG=Google+Search&amp;as_epq=&amp;as_oq=&amp;as_eq=&amp;as_sitesearch=&amp;safe=images&amp;as_st=y&amp;tbs=iur:f</string>
+		<key>utf8</key>
+		<false/>
+	</dict>
 </array>
 </plist>
